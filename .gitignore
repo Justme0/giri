@@ -11,3 +11,5 @@ build/
 *.exe
 cscope.*
 autom4te.cache
+
+*ycm_extra_conf*
